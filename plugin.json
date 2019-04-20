@@ -1,0 +1,11 @@
+{ 
+  "name" : "hello_world",
+  "display_name": "HelloWorld",
+  "file": "helloworld.php",
+  "author": "Your name",
+  "autor_website": "https://your_website.com",
+  "date": "year, month, date",
+  "description": "This addon says hello to website users",
+  "version": "1.0",
+  "state": "Stable"
+}
